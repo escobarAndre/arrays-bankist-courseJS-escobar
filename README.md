@@ -25,7 +25,7 @@ To login, use the first letters of each name, the users and their respective PIN
     Example:
 
         const account1 = {
-        wner: 'Jonas Schmedtmann',
+        owner: 'Jonas Schmedtmann',
         movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
         interestRate: 1.2, // %
         pin: 1111,
