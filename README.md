@@ -19,3 +19,10 @@ We then arrived at the stage of working with the arrays and creating the BANKIST
 - Summary: Which arrays method to use?
 
 A minimalist banking app.
+
+To login, use the first letters of each name, the users and their respective PIN.
+
+    Example:
+
+        Jonas Schmedtmann
+        pin:1111
